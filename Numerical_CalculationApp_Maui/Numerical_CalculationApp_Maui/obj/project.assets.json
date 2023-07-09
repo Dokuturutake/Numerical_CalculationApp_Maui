@@ -29874,11 +29874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arans\\Documents\\佐々木晶蘭作品集\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui.csproj",
+      "projectUniqueName": "C:\\MyWorks\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui.csproj",
       "projectName": "Numerical_CalculationApp_Maui",
-      "projectPath": "C:\\Users\\arans\\Documents\\佐々木晶蘭作品集\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui.csproj",
+      "projectPath": "C:\\MyWorks\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui.csproj",
       "packagesPath": "C:\\Users\\arans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arans\\Documents\\佐々木晶蘭作品集\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\obj\\",
+      "outputPath": "C:\\MyWorks\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\Numerical_CalculationApp_Maui\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
