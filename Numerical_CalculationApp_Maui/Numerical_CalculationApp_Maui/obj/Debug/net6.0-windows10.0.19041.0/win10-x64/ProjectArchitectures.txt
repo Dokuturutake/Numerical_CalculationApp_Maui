@@ -1,0 +1,1 @@
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui.csproj;x64

@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Numerical_CalculationApp_Maui
+build_property.ProjectDir = C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/Pages/CalculationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.Pages.CalculationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CalculationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CalculationPage.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/Pages/CustmControl/ButtonLikeRadioButton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.Pages.CustmControl.ButtonLikeRadioButton.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CustmControl\ButtonLikeRadioButton.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CustmControl\ButtonLikeRadioButton.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/Pages/QuestionSetteingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.Pages.QuestionSetteingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\QuestionSetteingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\QuestionSetteingPage.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/Pages/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.Pages.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Styles\Styles.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/Pages/Themes/DefaultTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.Pages.Themes.DefaultTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Themes\DefaultTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Themes\DefaultTheme.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/Pages/TitlePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.Pages.TitlePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\TitlePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\TitlePage.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/arans/Desktop/Git_Hub/Numerical_CalculationApp_Maui/Numerical_CalculationApp_Maui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Numerical_CalculationApp_Maui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

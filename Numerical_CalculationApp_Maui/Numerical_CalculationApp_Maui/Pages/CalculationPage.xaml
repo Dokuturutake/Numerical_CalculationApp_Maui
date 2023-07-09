@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Numerical_CalculationApp_Maui.CalculationPage"
+             BackgroundColor="{StaticResource PageBackgroundColor}"
+             xmlns:local="clr-namespace:Numerical_CalculationApp_Maui.ViewModel"
+             xmlns:Animations="clr-namespace:Numerical_CalculationApp_Maui.Pages.Animations"
+             >
+
+    <ContentPage.BindingContext>
+        <local:CalculationPageViewModel/>
+    </ContentPage.BindingContext>
+
+    <Grid RowDefinitions="0.05*, *, Auto, 1.5*, 0.05*">
+
+        <Grid Grid.Row="1">
+                <Border Style="{StaticResource StandardPanelBorder}"
+                        Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4"
+                        HeightRequest="100"
+                        >
+                    <Label Text="{Binding NowQuestion}" FontSize="42"
+                           TextColor="{StaticResource SecondaryColor}"
+                           />
+                </Border>
+        </Grid>
+            <Grid Grid.Row="3"
+                  RowDefinitions="1.1*, *, *, *, *"
+                  ColumnDefinitions="*, *, *, *"
+                  >
+
+                <Grid.Resources>
+                    <Style TargetType="Button">
+                        <Setter Property="FontSize"
+                                Value="29"/>
+                        <Setter Property="Margin"
+                                Value="4"/>
+                    </Style>
+                </Grid.Resources>
+
+                <Border Style="{StaticResource StandardPanelBorder}"
+                        Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4"
+                        >
+
+                    <Label Text="{Binding DisplayText}" FontSize="42"
+                           TextColor="{StaticResource SecondaryColor}"
+                           />
+                </Border>
+
+                <Button Text="7" Grid.Row="1" Grid.Column="0" Command="{Binding AddCharCommand}" CommandParameter="7"/>
+                <Button Text="8" Grid.Row="1" Grid.Column="1" Command="{Binding AddCharCommand}" CommandParameter="8"/>
+                <Button Text="9" Grid.Row="1" Grid.Column="2" Command="{Binding AddCharCommand}" CommandParameter="9"/>
+                <Button Text="4" Grid.Row="2" Grid.Column="0" Command="{Binding AddCharCommand}" CommandParameter="4"/>
+                <Button Text="5" Grid.Row="2" Grid.Column="1" Command="{Binding AddCharCommand}" CommandParameter="5"/>
+                <Button Text="6" Grid.Row="2" Grid.Column="2" Command="{Binding AddCharCommand}" CommandParameter="6"/>
+                <Button Text="1" Grid.Row="3" Grid.Column="0" Command="{Binding AddCharCommand}" CommandParameter="1"/>
+                <Button Text="2" Grid.Row="3" Grid.Column="1" Command="{Binding AddCharCommand}" CommandParameter="2"/>
+                <Button Text="3" Grid.Row="3" Grid.Column="2" Command="{Binding AddCharCommand}" CommandParameter="3"/>
+                <Button Text="0" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Command="{Binding AddCharCommand}" CommandParameter="0"/>
+                <Button Text="⇦" Grid.Row="1" Grid.Column="3" Grid.RowSpan="2" Command="{Binding DeleteCharCommand}"/>
+                <Button Text="=" Grid.Row="3" Grid.Column="3" Grid.RowSpan="2" BackgroundColor="{StaticResource SecondaryColor}" Command="{Binding AnswerCheckCommand}"/>
+
+            </Grid>
+
+    </Grid>
+        
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Tests\obj\Debug\net6.0-windows10.0.19041.0\Numerical_CalculationApp_Tests.csproj.AssemblyReference.cache

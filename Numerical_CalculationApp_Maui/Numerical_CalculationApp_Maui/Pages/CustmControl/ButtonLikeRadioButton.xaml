@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Numerical_CalculationApp_Maui.ButtonLikeRadioButton"
+             x:Name="this">
+
+    <RadioButton>
+        <RadioButton.ControlTemplate>
+            <ControlTemplate>
+                <Border  BackgroundColor="{Binding BorderBackGroundColor}"
+                         StrokeThickness="0"
+                         BindingContext="{Reference this}">
+                    <Border.StrokeShape>
+                        <RoundRectangle CornerRadius="10"/>
+                    </Border.StrokeShape>
+                    <VisualStateManager.VisualStateGroups>
+                        <VisualStateGroupList>
+                            <VisualStateGroup x:Name="CheckedStates">
+
+                                <VisualState Name="Checked">
+                                    <VisualState.Setters>
+                                        <Setter Property="BackgroundColor"
+                                                    Value="{StaticResource SecondaryColor}"/>
+                                    </VisualState.Setters>
+                                </VisualState>
+
+                                <VisualState Name="Unchecked">
+                                    <VisualState.Setters>
+                                        <Setter Property="BackgroundColor"
+                                                    Value="{StaticResource PrimaryTextColor}"/>
+                                    </VisualState.Setters>
+                                </VisualState>
+
+                            </VisualStateGroup>
+                        </VisualStateGroupList>
+                    </VisualStateManager.VisualStateGroups>
+
+                    <Grid>
+                        <Label Text="{Binding Text ,FallbackValue='NonVal'}"/>
+                    </Grid>
+                </Border>
+            </ControlTemplate>
+        </RadioButton.ControlTemplate>
+        
+    </RadioButton>
+</ContentView>

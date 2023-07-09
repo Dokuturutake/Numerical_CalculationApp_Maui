@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Numerical_CalculationApp_Maui.QuestionSetteingPage"
+             Title="QuestionSetteingPage">
+    <Grid>
+        <Slider Maximum="4"/>
+        <Slider Maximum="4"/>
+    </Grid>
+</ContentPage>

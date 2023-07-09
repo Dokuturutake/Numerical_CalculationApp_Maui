@@ -1,0 +1,13 @@
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Debug\net6.0\Numerical_CalculationApp_Maui.deps.json
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Debug\net6.0\Numerical_CalculationApp_Maui.dll
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Debug\net6.0\Numerical_CalculationApp_Maui.pdb
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\Numerical_CalculationApp_Maui.csproj.AssemblyReference.cache
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\Numerical_CalculationApp_Maui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\Numerical_CalculationApp_Maui.AssemblyInfoInputs.cache
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\Numerical_CalculationApp_Maui.AssemblyInfo.cs
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\Numerical_CalculationApp_Maui.csproj.CoreCompileInputs.cache
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\XamlC.stamp
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\Numerical_CalculationApp_Maui.dll
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\refint\Numerical_CalculationApp_Maui.dll
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\Numerical_CalculationApp_Maui.pdb
+C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Debug\net6.0\ref\Numerical_CalculationApp_Maui.dll
