@@ -29,7 +29,7 @@
             </Grid.Resources>
 
             <Label Text="Calculation" Grid.Row="0" TextColor="{x:StaticResource SecondaryColor}"
-                   FontSize="65" FontAttributes="Bold"/>
+                   FontSize="60" FontAttributes="Bold"/>
 
             <Grid Grid.Row="1" RowDefinitions="*, 1.4*">
 

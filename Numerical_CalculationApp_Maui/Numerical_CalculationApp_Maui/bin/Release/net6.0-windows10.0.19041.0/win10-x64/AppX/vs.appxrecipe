@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>54A9E27A-090E-4F0D-81F6-B06CB2F6DBCA</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>5319BF606C2574B66143E7CA8DC0A61D6E0F9BECC6BA136E14D24CE5ECDD8413</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>54A9E27A-090E-4F0D-81F6-B06CB2F6DBCA_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>54A9E27A-090E-4F0D-81F6-B06CB2F6DBCA_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-07-09T09:22:43.645</Modified>
+      <Modified>2023-07-10T00:34:27.580</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-07-09T09:22:43.150</Modified>
+      <Modified>2023-07-10T00:34:27.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\Numerical_CalculationApp_Maui.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\Numerical_CalculationApp_Maui.runtimeconfig.json">
       <PackagePath>Numerical_CalculationApp_Maui.runtimeconfig.json</PackagePath>
-      <Modified>2023-07-09T09:22:42.845</Modified>
+      <Modified>2023-07-09T23:59:28.330</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\Numerical_CalculationApp_Maui.dll">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\bin\Release\net6.0-windows10.0.19041.0\win10-x64\Numerical_CalculationApp_Maui.dll">
       <PackagePath>Numerical_CalculationApp_Maui.dll</PackagePath>
-      <Modified>2023-07-09T09:22:42.156</Modified>
+      <Modified>2023-07-10T00:34:26.943</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Numerical_CalculationApp_Maui.exe</PackagePath>
-      <Modified>2023-07-09T09:22:40.754</Modified>
+      <Modified>2023-07-10T00:34:25.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\arans\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.14\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1085,9 +1085,9 @@
       <PackagePath>e_sqlite3.dll</PackagePath>
       <Modified>2020-08-17T14:38:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\Numerical_CalculationApp_Maui.deps.json">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\Numerical_CalculationApp_Maui.deps.json">
       <PackagePath>Numerical_CalculationApp_Maui.deps.json</PackagePath>
-      <Modified>2023-07-09T09:22:43.484</Modified>
+      <Modified>2023-07-10T00:34:27.396</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\arans\.nuget\packages\microsoft.maui.controls.ref.win\6.0.552\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1101,243 +1101,243 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-01-19T02:56:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2022-07-29T06:35:45.206</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-07-09T09:21:17.793</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-07-09T09:21:17.814</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-07-09T09:21:17.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-07-09T09:21:17.911</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-07-09T09:21:18.121</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\fa-solid-900.ttf">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\fa-solid-900.ttf">
       <PackagePath>fa-solid-900.ttf</PackagePath>
       <Modified>2022-11-04T23:17:18.472</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2022-07-29T06:35:45.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2022-07-29T06:35:45.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-07-09T09:21:18.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-07-09T09:21:18.578</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-07-09T09:21:18.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-07-09T09:21:18.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-07-09T09:21:18.634</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-07-09T09:21:18.717</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-07-09T09:21:18.305</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-07-09T09:21:18.309</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-07-09T09:21:18.331</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-07-09T09:21:18.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-07-09T09:21:18.319</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-07-09T09:21:18.275</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-07-09T09:21:18.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-07-09T09:21:18.300</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-07-09T09:21:18.285</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-07-09T09:21:18.292</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-07-09T09:21:18.207</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-07-09T09:21:18.210</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-07-09T09:21:18.216</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-07-09T09:21:18.223</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-07-09T09:21:18.233</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-07-09T09:21:18.239</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-07-09T09:21:18.243</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-07-09T09:21:18.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-07-09T09:21:18.253</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-07-09T09:21:18.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-07-09T09:21:18.400</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-07-09T09:21:18.407</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-07-09T09:21:18.416</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-07-09T09:21:18.430</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-07-09T09:21:18.453</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-07-09T09:21:18.365</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-07-09T09:21:18.370</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-07-09T09:21:18.376</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-07-09T09:21:18.383</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-07-09T09:21:18.394</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-07-09T09:21:18.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-07-09T09:21:18.341</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-07-09T09:21:18.346</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-07-09T09:21:18.352</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-07-09T09:21:18.360</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-07-09T09:21:18.462</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-07-09T09:21:18.472</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-07-09T09:21:18.484</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-07-09T09:21:18.511</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-07-09T09:21:18.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-07-09T09:21:18.269</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-07-09T09:21:18.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-07-09T09:21:18.302</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-07-09T09:21:18.326</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\arans\Desktop\Git_Hub\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\obj\Release\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-07-09T09:21:18.407</Modified>
     </AppxPackagedFile>

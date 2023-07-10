@@ -1,0 +1,1 @@
+C:\MyWorks\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui\Numerical_CalculationApp_Maui.csproj;x64
